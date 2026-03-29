@@ -1,16 +1,22 @@
-## Hi there 👋
+## Olá👋, me chamo David Romão
 
-<!--
-**David00e/David00e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante de Desenvolvimento de Sistemas  
+🚀 Focado em me tornar Desenvolvedor Front-End  
+🎯 Buscando evoluir e criar projetos reais
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou estudante no Senac, apaixonado por tecnologia e desenvolvimento web.  
+Mesmo no início da minha jornada, estou sempre buscando aprender e melhorar minhas habilidades.
+
+Tenho interesse em criar interfaces modernas e funcionais, focadas na experiência do usuário.
+
+## 🛠️ Tecnologias
+
+Utilizadas:
+
+
+Em Aprendizado:
+
+
+
