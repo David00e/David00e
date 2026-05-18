@@ -1,19 +1,19 @@
 ## Olá👋, me chamo David Romão
 
-💻 Estudante de Desenvolvimento de Sistemas  
-🚀 Focado em me tornar Desenvolvedor Front-End  
-🎯 Buscando evoluir e criar projetos reais
+💻 Estudante de Desenvolvimento de Sistemas
+🚀 Desenvolvedor em formação | Futuro Dev Full Stack
+🎯 Sempre buscando evoluir e criar projetos reais
 
 ## 🚀 Sobre mim
 
-Sou estudante no Senac, apaixonado por tecnologia e desenvolvimento web.  
-Mesmo no início da minha jornada, estou sempre buscando aprender e melhorar minhas habilidades.
+Sou estudante no Senac e apaixonado por tecnologia e desenvolvimento web.
+Atualmente estou estudando para me tornar um desenvolvedor Full Stack, buscando evoluir tanto no Front-End quanto no Back-End.
 
-Tenho interesse em criar interfaces modernas e funcionais, focadas na experiência do usuário.
+Gosto de criar interfaces modernas, funcionais e focadas na experiência do usuário, além de aprender novas tecnologias e desenvolver projetos práticos.
 
 ## 🛠️ Tecnologias
 
-Utilizadas:
+Utiliza
 
 
 Em Aprendizado:
