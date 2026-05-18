@@ -1,7 +1,9 @@
 ## Olá👋, me chamo David Romão
 
 💻 Estudante de Desenvolvimento de Sistemas
+
 🚀 Desenvolvedor em formação | Futuro Dev Full Stack
+
 🎯 Sempre buscando evoluir e criar projetos reais
 
 ## 🚀 Sobre mim
