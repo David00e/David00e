@@ -21,10 +21,6 @@ Desenvolvedor em formação focado em criar sistemas e evoluir na prática com p
 - Construindo aplicações front-end
 - Melhorando arquitetura de interfaces
 
-## 📫 Contato
-- GitHub: @seu-usuario
-- Email: seuemail@exemplo.com
-
 ---
 
 🚧 Em constante evolução
