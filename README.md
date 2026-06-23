@@ -1,24 +1,30 @@
-## Olá👋, me chamo David Romão
+# 👋 Olá, eu sou o David
 
-💻 Estudante de Desenvolvimento de Sistemas
+Desenvolvedor em formação focado em criar sistemas e evoluir na prática com projetos reais.
 
-🚀 Desenvolvedor em formação | Futuro Dev Full Stack
+## 💻 Stack atual
+- JavaScript
+- TypeScript
+- React
+- React Native
+- Tailwind CSS
+- Bootstrap
 
-🎯 Sempre buscando evoluir e criar projetos reais
+## ⚙️ Foco atual
+- Desenvolvimento web e mobile
+- Criação de interfaces modernas
+- Construção de aplicações com React e React Native
+- Evolução em boas práticas de desenvolvimento
 
-## 🚀 Sobre mim
+## 📌 Atualmente
+- Desenvolvendo projetos pessoais e acadêmicos
+- Construindo aplicações front-end
+- Melhorando arquitetura de interfaces
 
-Sou estudante no Senac e apaixonado por tecnologia e desenvolvimento web.
-Atualmente estou estudando para me tornar um desenvolvedor Full Stack, buscando evoluir tanto no Front-End quanto no Back-End.
+## 📫 Contato
+- GitHub: @seu-usuario
+- Email: seuemail@exemplo.com
 
-Gosto de criar interfaces modernas, funcionais e focadas na experiência do usuário, além de aprender novas tecnologias e desenvolver projetos práticos.
+---
 
-## 🛠️ Tecnologias
-
-Utiliza
-
-
-Em Aprendizado:
-
-
-
+🚧 Em constante evolução
