@@ -5,8 +5,7 @@ Desenvolvedor em formação focado em criar sistemas e evoluir na prática com p
 ## 💻 Stack atual
 - JavaScript
 - TypeScript
-- React
-- React Native
+- React e React Native
 - Tailwind CSS
 - Bootstrap
 
